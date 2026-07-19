@@ -1,10 +1,16 @@
-# Pourfect
+<p align="center">
+  <img src="docs/images/hero-banner.png" alt="Pourfect, a V60 pour over companion for Android" width="100%">
+</p>
 
-A V60 pour over companion for Android. Pick a recipe, tell it how big you want your cup, and it builds the whole pour schedule and walks you through it with a live timer.
+Pick a recipe, tell it how big you want your cup, and it builds the whole pour schedule and walks you through it with a live timer.
 
 I made this because every brewing app I tried either ignored iced coffee or treated it as an afterthought. Japanese style flash brew deserves better: the ice replaces part of your brew water, so the dose, the pour targets and the grind all have to change with it. Pourfect does that math for you with a slider.
 
 ## What it does
+
+<p align="center">
+  <img src="docs/images/features.png" alt="Feature overview: ice slider in grams, 7 built in recipes, two phase guided timer, dial in advisor, brew journal, grinder guide" width="100%">
+</p>
 
 - Seven built in recipes: Classic V60, James Hoffmann's ultimate technique, Tetsu Kasuya's 4:6 with sweetness and strength controls, Matt Winton's five pour, Scott Rao's method, osmotic flow, and Japanese iced
 - An ice slider that works in grams. Drag it and the hot water, pour targets and coffee dose recalculate instantly. Every recipe can become an iced recipe
@@ -18,11 +24,15 @@ I made this because every brewing app I tried either ignored iced coffee or trea
 
 ## Screenshots
 
-| Setup | Guided brew |
-| --- | --- |
-| ![Setup screen](docs/screenshots/setup.png) | ![Brew timer](docs/screenshots/brew.png) |
+<p align="center">
+  <img src="docs/images/screens.png" alt="The setup screen with the ice slider, and the guided brew timer mid pour" width="100%">
+</p>
 
 ## Download
+
+<p align="center">
+  <img src="docs/images/install.png" alt="Install in three steps: download the APK, allow the install, brew" width="100%">
+</p>
 
 Grab the APK from the [latest release](../../releases/latest) and install it. You'll need Android 8.0 or newer, and you may have to allow installs from unknown sources since this isn't on the Play Store.
 
